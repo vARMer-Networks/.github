@@ -2,12 +2,11 @@
 # The Bunker Project
 
 ## About us
-> The Bunker Project (TBP) is a non-profit community dedicated to developing high-quality Roblox exploits with a focus on power, reliability, and clean design.
+> The Bunker Project (TBP) is a non-profit organization dedicated to developing high-quality Roblox exploits with a focus on power, reliability, and clean design.
 
 ## What we're building
-> We believe that efficiency always comes before bloat. Instead of prioritizing flashy interfaces or unnecessary features, we build tools that are lightweight, effective, and purpose-driven. Our goal is to provide users with software that simply works,fast, stable, and without distractions.
+> We believe that efficiency always comes before bloat. Instead of prioritizing flashy interfaces or unnecessary features, we build tools that are lightweight, effective, and purpose-driven. Our goal is to provide users with software that simply works, fast, stable, and without distractions.
 
 ## What's next
 > We're actively working on expanding our reach, updating our scripts, and making the exploiting experience even faster. If you want to be part of that, jump into the Discord or send us functions. Every contribution, big or small, helps keep this thing moving.
 
-### Always remember: Nothing is beyond our Reach

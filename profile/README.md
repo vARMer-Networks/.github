@@ -1,12 +1,82 @@
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MvVBbftUYm) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thebunkerproject@waifu.club)
-# The Bunker Project
+<div align="center">
 
-## About us
-> The Bunker Project (TBP) is a non-profit organization dedicated to developing high-quality Roblox exploits with a focus on power, reliability, and clean design.
+# ARMer Network
 
-## What we're building
-> We believe that efficiency always comes before bloat. Instead of prioritizing flashy interfaces or unnecessary features, we build tools that are lightweight, effective, and purpose-driven. Our goal is to provide users with software that simply works, fast, stable, and without distractions.
+**"Decompile, Rebuild, Create."**
 
-## What's next
-> We're actively working on expanding our reach, updating our scripts, and making the exploiting experience even faster. If you want to be part of that, jump into the Discord or send us functions. Every contribution, big or small, helps keep this thing moving.
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://canary.discord.com/invite/ZfgcEpMvu3)
+[![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?style=flat-square&logo=github)](https://github.com/vARMer-Networks)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-black?style=flat-square)](https://github.com/orgs/vARMer-Networks/repositories)
 
+</div>
+
+---
+
+### About
+
+ARMer Network is an independent, non-profit development organization focused on building Roblox and Luau systems.
+
+We work on runtime utilities, asset processing, serialization and infrastructure. The goal is simple: build useful software that works without unnecessary complexity.
+
+### Projects
+
+<div align="center">
+
+<a href="https://github.com/vARMer-Networks/RBXMXService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vARMer-Networks&repo=RBXMXService&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/vARMer-Networks/LSCService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vARMer-Networks&repo=LSCService&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/vARMer-Networks/PNGService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vARMer-Networks&repo=PNGService&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/vARMer-Networks/WAVService">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vARMer-Networks&repo=WAVService&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+<details>
+<summary>More about our projects</summary>
+
+- **RBXMXService / vLoader**: Modular RBXMX deserialization for Roblox Luau.
+- **LSCService**: Runtime script container generation.
+- **PNGService**: Runtime PNG and GIF parsing and rendering.
+- **WAVService**: Runtime WAV audio loading and playback.
+
+More projects are available in our [repositories](https://github.com/orgs/vARMer-Networks/repositories).
+
+</details>
+
+### Development
+
+Our projects are primarily built around:
+
+<div align="center">
+
+![Luau](https://img.shields.io/badge/Luau-000000?style=flat-square&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Rojo](https://img.shields.io/badge/Rojo-000000?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+
+</div>
+
+### Contributing
+
+Found something worth improving?
+
+Open an issue, submit a pull request or join our Discord. Contributions and feedback are welcome.
+
+<div align="center">
+
+[**Explore Projects**](https://github.com/orgs/vARMer-Networks/repositories) · [**Join Discord**](https://canary.discord.com/invite/ZfgcEpMvu3)
+
+<!--
+  IMAGE PLACEHOLDER:
+  Optional footer SVG containing the ARMer Network logo.
+-->
+
+<sub>ARMer Network · Independent development · Open source</sub>
+
+</div>

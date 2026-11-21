@@ -72,11 +72,4 @@ Open an issue, submit a pull request or join our Discord. Contributions and feed
 
 [**Explore Projects**](https://github.com/orgs/vARMer-Networks/repositories) · [**Join Discord**](https://canary.discord.com/invite/ZfgcEpMvu3)
 
-<!--
-  IMAGE PLACEHOLDER:
-  Optional footer SVG containing the ARMer Network logo.
--->
-
-<sub>ARMer Network · Independent development · Open source</sub>
-
 </div>
